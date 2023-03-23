@@ -1,0 +1,2 @@
+﻿  Project2.cpp
+D:\c语言的学习\Project2\Project2.cpp(72,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
